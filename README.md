@@ -22,7 +22,7 @@ Hardware Acceleration: TPU v2-8
   To just check if my code was working i set the images resolution be (32x32) which produced poor results for all models except for VGG16
   ![image](https://github.com/user-attachments/assets/51d424c3-4cd8-432f-b820-266cbe3c9724)
 
-  With this i decided not to compromise of images resolution too much since all the models have been trained on high resolution images.
+  With this i decided not to compromise on images resolution too much since all the models have been trained on high resolution images.
 
     
 # Challenges faced and Fixes
