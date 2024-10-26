@@ -11,6 +11,8 @@ Hardware Acceleration: TPU v2-8
   I have choosen CIFAR 10 dataset because of ease of access of a 10 classes dataset within tensorflow.
   The dataset has the following classes the model needs to classify:
     [Airplane, Automobile, Bird, Cat, Deer, Dog, Frog, Horse, Ship, Truck].
+    ![image](https://github.com/user-attachments/assets/6c821c45-243b-4abd-b4a8-94356a4fcb8f)
+
     
 # Method and Parameters choosen
   I've used the pre trained models VGG16, ResNet50, DenseNet121, EfficientNetB0 and fine tuned them on the dataset.
