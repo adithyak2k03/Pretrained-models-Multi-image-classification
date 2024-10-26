@@ -2,6 +2,7 @@
 Multiple images classification on Cifar10 dataset using fine tuned pre trained models VGG16, ResNet50, DenseNet121, EfficientNetB0
 
 Environment: Google Colab
+Hardware Acceleration: TPU v2-8
 
 # Problem statement:
   I wanted to learn the usage of pre-trained models on image datasets for a multi class classification task. 
